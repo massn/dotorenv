@@ -1,4 +1,4 @@
-module github.com/massn/dotorenv
+module github.com/massn/envordot
 
 go 1.18
 
