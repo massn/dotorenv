@@ -8,7 +8,7 @@ import (
 )
 
 const testDotEnvFile string = ".test.env"
-const testParam = "DOTORENV_TEST_PARAM"
+const testParam = "ENVORDOT_TEST_PARAM"
 const testDotEnvVal = "test_value_in_dot_env"
 const testEnvVal = "test_value_in_env"
 
