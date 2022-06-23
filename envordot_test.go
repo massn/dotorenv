@@ -1,4 +1,4 @@
-package dotorenv
+package envordot
 
 import (
 	"os"
